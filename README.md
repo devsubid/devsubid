@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/itsme-subid"><img src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="vistor count" height="30" width="224" /></a></td>
+    <td><a align= "center" href="https://github.com/itsme-subid"><img src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@
 
 ## ✨ Connect with me
 <p align="center">
-<a href="https://twitter.com/ItsmeSubid" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/twitter%20bw.png" alt="SUBID DAS" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subid-das-217a4622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/LinkedIn%20bw.png" alt="SUBID DAS" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/Instagram%20bw.png" alt="SUBID DAS" height="50" width="50" /></a>
+<a href="https://twitter.com/ItsmeSubid" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/twitter%20bw.png" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subid-das-217a4622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/LinkedIn%20bw.png" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/Instagram%20bw.png" alt="Insta" height="50" width="50" /></a>
 </p>
