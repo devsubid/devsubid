@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on some of my GitHub repos and spending time expanding my skillset.
 
-- 🌱 learning  JS, DBMS, Java, and C++.
+- 🌱 Learning  JS, DBMS, Java, and C++.
 
 - 📫 How to reach me [itsmesubid@gmail.com](mailto:itsmesubid@gmail.com).
 
