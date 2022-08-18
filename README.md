@@ -94,6 +94,7 @@
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E"></a>
 <a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/></a>
 <a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/></a>
+<a align= "center" href="https://github.com/itsme-subid"><img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsme-Subid&bg_color=1F222E&color=70a4fc&line=F85D7F&point=FFFFFF&hide_border=true"></a>
 </p>
 
 ## ✨ Connect with me
