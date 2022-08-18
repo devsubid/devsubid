@@ -1,8 +1,10 @@
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS!
 
+<img align = center src="https://readme-typing-svg.herokuapp.com/?lines=Student%20web%20and%20app%20developer;Experienced%20Web%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000">
+
 <h5 align="left">
 
-<img align = right src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966">
+<img align = right src="images/cat-typing.gif">
 
 - 👨‍💻 High School CS student at [SNV](https://en.wikipedia.org/wiki/Sheoraphuli_Surendra_Nath_Vidyaniketan), Kolkata.
 
@@ -85,14 +87,13 @@
   </tbody>
 </table>
 
-## 🏆 Stats
+## 🏆 GitHub Stats
 
 <p align = "center">
 <a align= "center" href="https://github.com/itsme-subid">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight"></a>
-<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true"/></a>
-<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-subid&layout=compact&theme=tokyonight&show_icons=true"/></a>
-</p>
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E"></a>
+<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/></a>
+<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/></a>
 </p>
 
 ## ✨ Connect with me
