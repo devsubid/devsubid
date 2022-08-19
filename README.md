@@ -1,10 +1,11 @@
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS!
 
-<img align = center src="https://readme-typing-svg.herokuapp.com/?lines=Student%20web%20and%20app%20developer;Experienced%20Web%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000">
+<a href=""><img align=center
+  src="https://readme-typing-svg.herokuapp.com/?lines=Student%20web%20and%20app%20developer;Experienced%20Web%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=70a4fc&vCenter=true&size=22&pause=1000"></a>
 
 <h5 align="left">
 
-<img align = right src="images/cat-typing.gif">
+<a href=""><img align = right src="images/cat-typing.gif"></a>
 
 - 👨‍💻 High School CS student at [SNV](https://en.wikipedia.org/wiki/Sheoraphuli_Surendra_Nath_Vidyaniketan), Kolkata.
 
