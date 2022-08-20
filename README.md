@@ -113,4 +113,4 @@
 <a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/Instagram%20bw.png" alt="Insta" height="50" width="50" /></a>
 </p>
 
-<img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67">
+<img src="images/footer.png">
