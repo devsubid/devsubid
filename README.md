@@ -91,18 +91,25 @@
 ## 🏆 GitHub Stats
 
 <p align = "center">
+<a align= "left" href="https://github.com/itsme-subid">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E">
+</a>
+<a align= "right" href="https://github.com/itsme-subid">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/>
+</a>
 <a align= "center" href="https://github.com/itsme-subid">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E"></a>
-<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/></a>
-<a align= "center" href="https://github.com/itsme-subid"><img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/></a>
-<a align= "center" href="https://github.com/itsme-subid"><img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsme-Subid&bg_color=1F222E&color=70a4fc&line=F85D7F&point=FFFFFF&hide_border=true"></a>
+<img width="800" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsme-Subid&bg_color=1F222E&color=70a4fc&line=F85D7F&point=FFFFFF&hide_border=true">
+</a>
+<a align= "center" href="https://github.com/itsme-subid">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+</a>
 </p>
 
 ## ✨ Connect with me
 
 <p align="center">
 <a href="https://twitter.com/ItsmeSubid" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/twitter%20bw.png" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subid-das-217a4622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/LinkedIn%20bw.png" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subid-das-217a4622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/LinkedIn%20bw.png" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/Instagram%20bw.png" alt="Insta" height="50" width="50" /></a>
 </p>
 
