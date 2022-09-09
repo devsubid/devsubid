@@ -90,20 +90,20 @@
 
 ## 🏆 GitHub Stats
 
-<p align = "center">
-<a align= "left" href="https://github.com/itsme-subid">
-<img draggable="false" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E">
-</a>
-<a align= "right" href="https://github.com/itsme-subid">
-<img draggable="false" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/>
-</a>
+<p align="center">
 <a align= "center" href="https://github.com/itsme-subid">
-<img draggable="false" width="800" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsme-Subid&bg_color=1F222E&color=70a4fc&line=F85D7F&point=FFFFFF&hide_border=true">
+<img draggable="false" alt="stats card" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&theme=tokyonight&hide_border=true&bg_color=1F222E"
+>
 </a>
-<a align= "center" href="https://github.com/itsme-subid">
-<img draggable="false" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+<a align="center" href="https://github.com/itsme-subid">
+<img draggable="false" width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=1F222E"/>
 </a>
-</p>
+<a align="center" href="https://github.com/itsme-subid">
+<img draggable="false" align="center" width="800" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsme-Subid&bg_color=1F222E&color=70a4fc&line=F85D7F&point=FFFFFF&hide_border=true">
+</a>
+<a align="center" href="https://github.com/itsme-subid">
+<img draggable="false" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+</a>
 
 ## ✨ Connect with me
 
