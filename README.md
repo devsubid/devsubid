@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on some of my GitHub repos and spending time expanding my skillset.
 
-- 🌱 Learning JS, DBMS, Java, and C++.
+- 🌱 Learning React JS, Advanced JS, C++, Java and DBMS.
 
 - 📫 How to reach me [itsmesubid@gmail.com](mailto:itsmesubid@gmail.com).
 
