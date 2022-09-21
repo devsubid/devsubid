@@ -91,11 +91,11 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-<a align="left" href="http://www.github.com/itsme-subid"><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&stroke=ec4899&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-<a align="right" href="http://www.github.com/itsme-subid"><img width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="itsme-subid's GitHub stats" /></a>
-<a href="http://www.github.com/itsme-subid"><img src="https://activity-graph.herokuapp.com/graph?username=itsme-subid&bg_color=0f172a&color=ec4899&line=3382ed&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a align="left" href="http://www.github.com/itsme-subid"><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&stroke=ec4899&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a align="right" href="http://www.github.com/itsme-subid"><img width="400" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="itsme-subid's GitHub stats" /></a>
+<a href="http://www.github.com/itsme-subid"><img src="https://activity-graph.herokuapp.com/graph?username=itsme-subid&bg_color=0d1117&color=ec4899&line=3382ed&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a align="center" href="https://github.com/itsme-subid">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true"/>
 </a>
 
 ## ✨ Connect with me
