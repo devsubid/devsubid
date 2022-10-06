@@ -32,16 +32,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>HTML5</strong></span><br><br><br>
-        <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>CSS3</strong></span><br><br><br>
-        <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><strong>ReactJS</strong></span><br><br><br>
+        <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
         <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Tailwind CSS</strong></span><br><br><br>
+        <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
       <td width="25%" align="center">
@@ -67,7 +67,7 @@
         <img draggable="false" height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br><br>
+        <span><strong>C/C++</strong></span><br><br><br>
         <img draggable="false" height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
     </tr>
