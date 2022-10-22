@@ -2,7 +2,7 @@
  
 <a href="https://www.github.com/itsme-subid" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsme-subid?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
-<a href="https://www.twitter.com/ItsmeSubid" rel="noreferrer"><img
+<a href="https://www.twitter.com/ItsmeSubid" rel="noreferrer" target="_blank"><img
 src="https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 
