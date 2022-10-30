@@ -1,96 +1,51 @@
-# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS!
- 
+# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS
+
 <a href="https://www.github.com/itsme-subid" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itsme-subid?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
-<a href="https://www.twitter.com/ItsmeSubid" rel="noreferrer" target="_blank"><img
+<a href="https://www.twitter.com/ItsmeSubid" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 
 <a href="https://www.github.com/itsme-subid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000"></a>
 
-<h5 align="left">
+## 🛠 Skills
 
-<a href=""><img align = right src="images/cat-typing.gif"></a>
-
-- 👨‍💻 High School CS student at [SNV](https://en.wikipedia.org/wiki/Sheoraphuli_Surendra_Nath_Vidyaniketan), Kolkata.
-
-- 💻 C/C++, JS.
-
-- 🔭 I’m currently working on some of my GitHub repos and spending time expanding my skillset.
-
-- 🌱 Learning React JS, Advanced JS, C++, Java and DBMS.
-
-- 📫 How to reach me [itsmesubid@gmail.com](mailto:itsmesubid@gmail.com).
+```javascript
+const aboutMe = {
+  pronouns: "He" | "Him",
+  latestProjectURL: "https://news365-itsme-subid.vercel.app/"
+  mailInfo: "itsmesubid@gmail.com",
+  code: ["Javascript", "CSS", "HTML", "C/C++", "Java"],
+  technologies: {
+    frontEnd: {
+      js: ["React.js"],
+      css: ["Styled-Components", "Tailwind CSS", "Bootstrap"],
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+    },
+    databases: ["MongoDB", "MySQL", "Oracle SQL"],
+    misc: {
+      cloud: "Adaptable.io",
+      serverless: ["Vercel", "Netlify"],
+      versionControl: ["Git", "GitHub"],
+      codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text"],
+      design: ["Photoshop", "InDesign", "Illustrator"],
+    },
+  },
+  currentOccupation: [
+    "last year higher secondary student, open for intership opportunities",
+  ],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  funFact: "I don't have a girlfriend😁"
+};
+```
 
 <table>
   <tr>
     <td>Visitors</td>
     <td><a href="https://github.com/itsme-subid"><img src="https://profile-counter.glitch.me/itsme-subid/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
   </tr>
-</table>
-
-</h5>
-
-## 🛠 Skills
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>ReactJS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Tailwind CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-    </tr>
-      <td width="25%" align="center">
-        <span><strong>VS Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>GitHub</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySQL</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C/C++</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Photoshop</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>InDesign</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-indesign.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Illustrator</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-illustrator.svg">
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 ## 🏆 GitHub Stats
