@@ -1,14 +1,14 @@
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS
 
-<a href="https://www.github.com/itsme-subid" rel="noreferrer"><img
+<a href="https://www.github.com/itsme-subid"><img
 src="https://img.shields.io/github/followers/itsme-subid?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
-<a href="https://www.twitter.com/ItsmeSubid" rel="noreferrer"><img
+<a href="https://www.twitter.com/ItsmeSubid"><img
 src="https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 
 <a href="https://www.github.com/itsme-subid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000"></a>
 
-## 🛠 Skills
+## 😀 About Me
 
 ```javascript
 const aboutMe = {
