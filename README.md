@@ -34,7 +34,7 @@ const aboutMe = {
     },
   },
   currentOccupation: [
-    "last year higher secondary student, open for intership opportunities",
+    "last year higher secondary student, open for internship opportunities",
   ],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
   funFact: "I don't have a girlfriend😁"
