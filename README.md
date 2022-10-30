@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the
 ```javascript
 const aboutMe = {
   pronouns: "He" | "Him",
-  latestProjectURL: "https://news365-itsme-subid.vercel.app/"
+  latestProjectURL: "https://news365-itsme-subid.vercel.app/",
   mailInfo: "itsmesubid@gmail.com",
   code: ["Javascript", "CSS", "HTML", "C/C++", "Java"],
   technologies: {
