@@ -13,12 +13,12 @@ src="https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the
 ```javascript
 const aboutMe = {
   pronouns: "He" | "Him",
-  latestProjectURL: "https://news365-itsme-subid.vercel.app/",
+  latestProjectURL: "https://movie108.vercel.app/",
   mailInfo: "itsmesubid@gmail.com",
   code: ["Javascript", "CSS", "HTML", "C/C++", "Java"],
   technologies: {
     frontEnd: {
-      js: ["React.js"],
+      js: "React.js",
       css: ["Styled-Components", "Tailwind CSS", "Bootstrap"],
     },
     backEnd: {
@@ -26,7 +26,7 @@ const aboutMe = {
     },
     databases: ["MongoDB", "MySQL", "Oracle SQL"],
     misc: {
-      cloud: "Adaptable.io",
+      cloud: ["Render", "Adaptable.io"],
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
       codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text"],
@@ -34,9 +34,9 @@ const aboutMe = {
     },
   },
   currentOccupation: [
-    "last year higher secondary student, open for internship opportunities",
+    "Final year higher secondary student, open for internship opportunities",
   ],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+  challenge: "I am doing the #100DaysOfCode challenge focused on next.js and typescript",
   funFact: "I don't have a girlfriend😁"
 };
 ```
