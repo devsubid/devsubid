@@ -26,7 +26,7 @@ const aboutMe = {
     },
     databases: ["MongoDB", "MySQL", "Oracle SQL"],
     misc: {
-      cloud: ["Render", "Adaptable.io"],
+      cloud: ["Render", "MongoDB Atlas", "Adaptable.io"],
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
       codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text"],
