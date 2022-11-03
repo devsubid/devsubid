@@ -15,7 +15,7 @@ const aboutMe = {
   pronouns: "He" | "Him",
   latestProjectURL: "https://movie108.vercel.app/",
   mailInfo: "itsmesubid@gmail.com",
-  code: ["Javascript", "CSS", "HTML", "C/C++", "Java"],
+  languages: ["Javascript", "CSS", "HTML", "C/C++", "Java"],
   technologies: {
     frontEnd: {
       js: "React.js",
