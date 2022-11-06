@@ -30,7 +30,7 @@ const aboutMe = {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
       packageManager: ["yarn", "npm"],
-      codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text"],
+      codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text", "nano"],
       design: ["Photoshop", "InDesign", "Illustrator"],
     },
   },
