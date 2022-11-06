@@ -29,6 +29,7 @@ const aboutMe = {
       cloud: ["Render", "MongoDB Atlas", "Adaptable.io"],
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
+      packageManager: ["yarn", "npm"],
       codeEditor: ["Visual Studio Code", "IntelliJ IDEA", "Sublime Text"],
       design: ["Photoshop", "InDesign", "Illustrator"],
     },
