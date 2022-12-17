@@ -58,10 +58,10 @@ const aboutMe = {
 
 ## ✨ Connect with me
 
-<center>
+<div align="center">
 <a href="https://twitter.com/ItsmeSubid" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/twitter%20bw.png" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/itsme-subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/LinkedIn%20bw.png" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/itsme-Subid/itsme-subid/main/images/Instagram%20bw.png" alt="Insta" height="50" width="50" /></a>
-</center>
+</div>
 
 <a href="https://github.com/itsme-subid"><img src="images/footer.png"></a>
