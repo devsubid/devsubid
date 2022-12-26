@@ -26,18 +26,19 @@ const aboutMe = {
       cloud: ["Render", "MongoDB Atlas", "Adaptable.io"],
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
-      packageManager: ["yarn", "npm"],
+      packageManager: ["yarn", "npm", "pnpm"],
       codeEditor: [
         "Visual Studio Code",
         "IntelliJ IDEA",
         "Sublime Text",
-        "nano",
+        "Vim",
       ],
       design: ["Photoshop", "InDesign", "Illustrator"],
     },
   },
   currentOccupation: [
-    "Final year higher secondary student, open for internship opportunities",
+    "student, open for internship opportunities",
+    "open for freelance work",
   ],
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react.js and typescript",
