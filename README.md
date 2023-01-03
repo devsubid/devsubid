@@ -5,6 +5,7 @@
 [![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
 
 ## 😀 About Me
+
 ```typescript
 const aboutMe = {
   pronouns: "He" | "Him",
@@ -49,10 +50,12 @@ const aboutMe = {
 
 ## 🏆 GitHub Stats
 
-<a align="left" href="http://github.com/itsme-subid"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="itsme-subid's GitHub stats" /></a>
-<a align="right" href="https://github.com/itsme-subid">
+<a align="center" href="http://github.com/itsme-subid"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-subid&stroke=ec4899&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a align="center" href="http://github.com/itsme-subid"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsme-subid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="itsme-subid's GitHub stats" /></a>
+<a align="center" href="https://github.com/itsme-subid">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-Subid&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true"/>
 </a>
+<a href="http://github.com/itsme-subid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsme-subid&bg_color=0d1117&color=ec4899&line=3382ed&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## ✨ Connect with me
 
