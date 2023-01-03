@@ -5,7 +5,6 @@
 [![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
 
 ## 😀 About Me
-
 ```typescript
 const aboutMe = {
   pronouns: "He" | "Him",
