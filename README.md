@@ -64,4 +64,4 @@ const aboutMe = {
 <a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="./images/fiverr.svg" alt="Insta" height="50" width="50" /></a>
 </div>
 
-<a href="https://github.com/itsme-subid"><img src="images/footer.png"></a>
+<a href="https://github.com/itsme-subid"><img src="./images/footer.png"></a>
