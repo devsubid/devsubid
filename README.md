@@ -9,7 +9,6 @@
 ```typescript
 const aboutMe = {
   pronouns: "He" | "Him",
-  latestProjectURL: "https://movie108.vercel.app/",
   mailInfo: "itsmesubid@gmail.com",
   languages: ["TypeScript", "JavaScript", "CSS", "HTML", "C/C++", "Java"],
   technologies: {
@@ -40,7 +39,7 @@ const aboutMe = {
     "open for freelance work",
   ],
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react.js and typescript",
+    "I am doing the #100DaysOfCode challenge focused on next.js and typescript",
   funFact: "I don't have a girlfriend😁",
 };
 ```
