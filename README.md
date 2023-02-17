@@ -13,11 +13,15 @@ const aboutMe = {
   languages: ["TypeScript", "JavaScript", "CSS", "HTML", "C/C++", "Java"],
   technologies: {
     frontEnd: {
-      ts: ["Next.js", "React.js"],
-      css: ["Styled-Components", "Tailwind CSS", "Bootstrap"],
+      ts: {
+        framework: "React.js",
+        metaFramework: "Next.js",
+      },
+      css: ["Styled-Components", "Tailwind CSS", "Material-UI", "Bootstrap"],
     },
     backEnd: {
       ts: ["Node.js", "Express.js"],
+      BaaS: "Firebase",
     },
     databases: ["MySQL", "MongoDB", "Oracle SQL"],
     misc: {
@@ -25,6 +29,17 @@ const aboutMe = {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
       packageManager: ["yarn", "npm", "pnpm"],
+      authentication: ["Next-Auth", "Firebase Auth"],
+      miscTech: [
+        "JWT",
+        "axios",
+        "bcrypt",
+        "markdown",
+        "react-icons",
+        "react-formik",
+        "react-time-ago",
+        "react-firebase-hooks",
+      ],
       codeEditor: [
         "Visual Studio Code",
         "IntelliJ IDEA",
