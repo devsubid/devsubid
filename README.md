@@ -10,7 +10,7 @@
 const aboutMe = {
   pronouns: "He" | "Him",
   mailInfo: "itsmesubid@gmail.com",
-  languages: ["TypeScript", "JavaScript", "CSS", "HTML", "C/C++", "Java"],
+  languages: ["TypeScript", "JavaScript", "C/C++", "Java"],
   technologies: {
     frontEnd: {
       ts: {
