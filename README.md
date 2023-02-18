@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/followers/itsme-subid?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://www.github.com/itsme-subid)
 [![](https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/ItsmeSubid)<br>
-[![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
+[![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Next.js%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
 
 ## 😀 About Me
 
@@ -32,6 +32,7 @@ const aboutMe = {
       authentication: ["Next-Auth", "Firebase Auth"],
       miscTech: [
         "JWT",
+        "UUID",
         "axios",
         "bcrypt",
         "markdown",
