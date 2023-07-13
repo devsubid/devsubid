@@ -1,53 +1,43 @@
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm SUBID DAS
 
 [![](https://img.shields.io/github/followers/itsme-subid?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://www.github.com/itsme-subid)
-[![](https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/ItsmeSubid)<br>
-[![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Next.js%20Developer;Experienced%20Web%20Designer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
+[![](https://img.shields.io/twitter/follow/ItsmeSubid?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/ItsmeSubid)
+[![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Experienced%20Web%20Developer;3%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/itsme-subid)
 
 ## 😀 About Me
 
 ```typescript
 const aboutMe = {
-  pronouns: "He" | "Him",
-  mailInfo: "itsmesubid@gmail.com",
-  languages: ["TypeScript", "JavaScript", "C/C++", "Java"],
+  name: "SUBID DAS",
+  email: "itsmesubid@gmail.com",
+  languages: ["TypeScript", "JavaScript", "Bash", "C/C++", "Java"],
   technologies: {
     frontEnd: {
       ts: {
         framework: "React.js",
         metaFramework: "Next.js",
       },
-      css: ["Styled-Components", "Tailwind CSS", "Material-UI", "Bootstrap"],
+      css: [
+        "Tailwind CSS",
+        "Styled Components",
+        "Radix UI",
+        "Material UI",
+        "Bootstrap",
+      ],
     },
     backEnd: {
-      ts: ["Node.js", "Express.js"],
-      BaaS: "Firebase",
+      framework: ["tRPC", "Node.js", "Express.js"],
+      orm: ["Prisma", "Mongoose"],
+      baas: ["Supabase", "Appwrite", "Firebase"],
     },
-    databases: ["MySQL", "MongoDB", "Oracle SQL"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
     misc: {
-      cloud: ["Render", "MongoDB Atlas", "Adaptable.io"],
-      serverless: ["Vercel", "Netlify"],
+      serverless: ["Vercel", "Netlify", "Cloudflare"],
       versionControl: ["Git", "GitHub"],
-      packageManager: ["yarn", "npm", "pnpm"],
-      authentication: ["Next-Auth", "Firebase Auth"],
-      miscTech: [
-        "JWT",
-        "UUID",
-        "axios",
-        "bcrypt",
-        "markdown",
-        "react-icons",
-        "react-formik",
-        "react-time-ago",
-        "react-firebase-hooks",
-      ],
-      codeEditor: [
-        "Visual Studio Code",
-        "IntelliJ IDEA",
-        "Sublime Text",
-        "Vim",
-      ],
-      design: ["Photoshop", "InDesign", "Illustrator"],
+      packageManager: ["pnpm", "yarn", "npm"],
+      authentication: ["Next-Auth", "Firebase Auth", "Clerk"],
+      codeEditor: ["Visual Studio Code", "Sublime Text", "Vim"],
+      design: ["Figma", "Adobe XD", "Photoshop", "InDesign", "Illustrator"],
     },
   },
   currentOccupation: [
@@ -55,8 +45,8 @@ const aboutMe = {
     "open for freelance work",
   ],
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on next.js and typescript",
-  funFact: "I don't have a girlfriend😁",
+    "I am doing the #100DaysOfCode challenge focused on Next.js and TypeScript",
+  funFact: "I don't have a girlfriend 😁",
 };
 ```
 
@@ -78,7 +68,7 @@ const aboutMe = {
 <a href="https://twitter.com/ItsmeSubid/" target="blank"><img align="center" src="./images/twitter.svg" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/itsme-subid/" target="blank"><img align="center" src="./images/linkedin.svg" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/itsme_subid/" target="blank"><img align="center" src="./images/instagram.svg" alt="Instagram" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.fiverr.com/itsmesubid/" target="blank"><img align="center" src="./images/fiverr.svg" alt="Insta" height="50" width="50" /></a>
+<a href="https://www.fiverr.com/itsmesubid/" target="blank"><img align="center" src="./images/fiverr.svg" alt="Fiverr" height="50" width="50" /></a>
 </div>
 
-<a href="https://github.com/itsme-subid"><img src="./images/footer.png"></a>
+[![](./images/footer.png)](https://github.com/itsme-subid)
