@@ -39,7 +39,8 @@ const aboutMe = {
   currentOccupation: [
     "student, open for internship opportunities",
     "open for freelance work",
-  ]
+    "debugging with my partner"
+  ],
 };
 ```
 
