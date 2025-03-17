@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ## 😀 About Me
 
 ```typescript
@@ -55,8 +53,6 @@ const aboutMe = {
   <img src="https://profile-counter.glitch.me/devsubid/count.svg" alt="Visitor Count"/>
 </p>
 
----
-
 ## 🏆 GitHub Stats
 
 <a href="https://github.com/devsubid">
@@ -66,8 +62,6 @@ const aboutMe = {
 <a href="https://github.com/devsubid">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsubid&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="Top Languages"/>
 </a>
-
----
 
 ## ✨ Connect with Me
 
@@ -91,4 +85,3 @@ const aboutMe = {
     <img src="./images/footer.png" alt="Footer"/>
   </a>
 </p>
-```
