@@ -27,6 +27,7 @@ const aboutMe = {
       js: {
         framework: "React.js ⚛️",
         metaFramework: "Next.js 🚀",
+        mobile: "React Native & Expo 📱",
         animation: ["Framer-Motion 🎞️", "gsap"],
       },
       css: ["Tailwind CSS"],
@@ -37,8 +38,18 @@ const aboutMe = {
       baas: ["Supabase", "Firebase"],
     },
     databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    devOps: {
+      containerization: ["Docker 🐳", "Podman 🦭"],
+      cicd: ["GitHub Actions", "GitLab CI"],
+      cloud: ["AWS", "GCP", "Azure", "Vercel"],
+    },
+    testing: {
+      unit: ["Jest", "Vitest"],
+      e2e: "Cypress",
+    },
     misc: {
-      serverless: ["AWS", "GCP", "Azure", "Vercel"],
+      dataFetching: ["React Query", "SWR"],
+      stateManagement: ["Redux Toolkit", "Zustand"],
       versionControl: ["Git", "GitHub"],
     },
   },
@@ -52,16 +63,6 @@ const aboutMe = {
 <p align="center">
   <img src="https://profile-counter.glitch.me/devsubid/count.svg" alt="Visitor Count"/>
 </p>
-
-## 🏆 GitHub Stats
-
-<a href="https://github.com/devsubid">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsubid&show_icons=true&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="GitHub Stats"/>
-</a>
-<br/>
-<a href="https://github.com/devsubid">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsubid&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="Top Languages"/>
-</a>
 
 ## ✨ Connect with Me
 
