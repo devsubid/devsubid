@@ -24,26 +24,19 @@ const aboutMe = {
   languages: [
     "TypeScript", 
     "JavaScript", 
-    "PHP", 
-    "Bun.js", 
-    "LangChain"
+    "PHP"
   ],
   technologies: {
     frontEnd: {
       js: {
-        framework: "React.js ⚛️",
+        framework: ["LangChain 🦜🔗", "React.js ⚛️", "Vue.js "],
         metaFramework: "Next.js 🚀",
-        mobile: [
-          "React Native & Expo 📱",
-          "MMKV",
-          "Jotai"
-        ],
+        mobile: "React Native & Expo 📱",
         animation: [
           "@motion/react (Framer-Motion) 🎞️", 
           "gsap", 
         ],
         additional: [
-          "Vue.js",
           "React Email",
           "Shadcn UI",
           "Magic UI"
@@ -53,28 +46,26 @@ const aboutMe = {
     },
     backEnd: {
       framework: [
+        "Elysia.js", 
         "tRPC", 
-        "Node.js", 
+        "Node.js",
         "Express.js", 
-        "elysia.js", 
-        "Laravel", 
-        "Bun.js"
+        "Laravel"
       ],
       orm: ["Prisma", "drizzle"],
       baas: ["Supabase", "Firebase"],
-      ai: ["LangChain", "Google Gemini AI"],
+      ai: ["LangChain 🦜🔗", "Google Gemini AI"],
       messageQueue: ["RabbitMQ"],
       storage: ["MinIO"],
     },
     databases: [
+      "MongoDB",
       "PostgreSQL", 
-      "MySQL", 
-      "MongoDB"
+      "MySQL"
     ],
     devOps: {
       containerization: [
         "Docker 🐳", 
-        "Docker Compose", 
         "Podman 🦭"
       ],
       cicd: [
@@ -116,8 +107,9 @@ const aboutMe = {
     }
   },
   currentOccupation: [
-    "3+ years experience 💼 | Worked at Intrepid AI, Dobby Ads, AwesomeSuite",
+    "3+ years experience 💼 | Worked at ConnectinCloud, Intrepid AI, Dobby Ads, AwesomeSuite",
     "Open for freelance opportunities 🚀",
+    "As a freelancer, worked with Indian Oil Corporation Limited, PCP India, Ellora Outdoor, Sonysauto"
   ],
 };
 ```
