@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/itsme-subid">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Experienced%20Software%20Developer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning;Passionate%20&%20Innovative&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Experienced%20Software%20Developer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning;Passionate%20%26%20Innovative;AI%20and%20Automation%20Enthusiast;Linux%20%26%20VPS%20Ops;Multi-Stack%20Polyglot&font=Poppins&center=true&width=550&height=45&color=3382ed&size=22&pause=1000" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -21,37 +21,99 @@
 const aboutMe = {
   name: "SUBID DAS",
   email: "itsmesubid@gmail.com",
-  languages: ["TypeScript", "JavaScript"],
+  languages: [
+    "TypeScript", 
+    "JavaScript", 
+    "PHP", 
+    "Bun.js", 
+    "LangChain"
+  ],
   technologies: {
     frontEnd: {
       js: {
         framework: "React.js ⚛️",
         metaFramework: "Next.js 🚀",
-        mobile: "React Native & Expo 📱",
-        animation: ["Framer-Motion 🎞️", "gsap"],
+        mobile: [
+          "React Native & Expo 📱",
+          "MMKV",
+          "Jotai"
+        ],
+        animation: [
+          "@motion/react (Framer-Motion) 🎞️", 
+          "gsap", 
+        ],
+        additional: [
+          "Vue.js",
+          "React Email",
+          "Shadcn UI",
+          "Magic UI"
+        ]
       },
       css: ["Tailwind CSS"],
     },
     backEnd: {
-      framework: ["tRPC", "Node.js", "Express.js", "elysia.js"],
+      framework: [
+        "tRPC", 
+        "Node.js", 
+        "Express.js", 
+        "elysia.js", 
+        "Laravel", 
+        "Bun.js"
+      ],
       orm: ["Prisma", "drizzle"],
       baas: ["Supabase", "Firebase"],
+      ai: ["LangChain", "Google Gemini AI"],
+      messageQueue: ["RabbitMQ"],
+      storage: ["MinIO"],
     },
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    databases: [
+      "PostgreSQL", 
+      "MySQL", 
+      "MongoDB"
+    ],
     devOps: {
-      containerization: ["Docker 🐳", "Podman 🦭"],
-      cicd: ["GitHub Actions", "GitLab CI"],
-      cloud: ["AWS", "GCP", "Azure", "Vercel"],
+      containerization: [
+        "Docker 🐳", 
+        "Docker Compose", 
+        "Podman 🦭"
+      ],
+      cicd: [
+        "GitHub Actions",
+        "GitHub CI/CD"
+      ],
+      cloud: [
+        "GCP",
+        "AWS", 
+        "Azure", 
+        "Vercel"
+      ],
+      vps: [
+        "Linux Server Management", 
+        "VPS Management"
+      ]
     },
     testing: {
       unit: ["Jest", "Vitest"],
       e2e: "Cypress",
     },
     misc: {
-      dataFetching: ["React Query", "SWR"],
-      stateManagement: ["Redux Toolkit", "Zustand"],
-      versionControl: ["Git", "GitHub"],
-    },
+      dataFetching: [
+        "React Query", 
+        "SWR"
+      ],
+      stateManagement: [
+        "Jotai",
+        "Zustand",
+        "Redux Toolkit"
+      ],
+      versionControl: [
+        "Git", 
+        "GitHub"
+      ],
+      validation: [
+        "zod"
+      ]
+    }
   },
   currentOccupation: [
     "3+ years experience 💼 | Worked at Intrepid AI, Dobby Ads, AwesomeSuite",
@@ -59,10 +121,6 @@ const aboutMe = {
   ],
 };
 ```
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/devsubid/count.svg" alt="Visitor Count"/>
-</p>
 
 ## ✨ Connect with Me
 
@@ -75,9 +133,6 @@ const aboutMe = {
   </a>
   <a href="https://www.instagram.com/devsubid/" target="_blank">
     <img src="./images/instagram.svg" alt="Instagram" width="50" height="50"/>
-  </a>
-  <a href="https://www.fiverr.com/itsmesubid/" target="_blank">
-    <img src="./images/fiverr.svg" alt="Fiverr" width="50" height="50"/>
   </a>
 </p>
 
