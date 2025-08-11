@@ -22,19 +22,27 @@ const aboutMe = {
   name: "SUBID DAS",
   email: "itsmesubid@gmail.com",
   languages: [
-    "TypeScript", 
-    "JavaScript", 
+    "Go",
+    "TypeScript",
+    "JavaScript",
     "PHP"
   ],
   technologies: {
     frontEnd: {
       js: {
-        framework: ["LangChain 🦜🔗", "React.js ⚛️", "Vue.js "],
-        metaFramework: "Next.js 🚀",
-        mobile: "React Native & Expo 📱",
+        framework: [
+          "LangChain 🦜🔗",
+          "React.js ⚛️",
+          "Vue.js",
+          "Next.js 🚀"
+        ],
+        mobile: [
+          "React Native",
+          "Expo 📱"
+        ],
         animation: [
-          "@motion/react (Framer-Motion) 🎞️", 
-          "gsap", 
+          "Framer Motion (@motion/react) 🎞️",
+          "gsap"
         ],
         additional: [
           "React Email",
@@ -42,54 +50,98 @@ const aboutMe = {
           "Magic UI"
         ]
       },
-      css: ["Tailwind CSS"],
+      css: [
+        "Tailwind CSS",
+        "CSS3"
+      ],
     },
     backEnd: {
       framework: [
-        "Elysia.js", 
-        "tRPC", 
+        "Elysia.js",
+        "tRPC",
         "Node.js",
-        "Express.js", 
+        "Express.js",
         "Laravel"
       ],
-      orm: ["Prisma", "drizzle"],
-      baas: ["Supabase", "Firebase"],
-      ai: ["LangChain 🦜🔗", "Google Gemini AI"],
-      messageQueue: ["RabbitMQ"],
-      storage: ["MinIO"],
+      languages: [
+        "Go",
+        "TypeScript",
+        "JavaScript",
+        "PHP"
+      ],
+      orm: [
+        "Prisma",
+        "Drizzle ORM"
+      ],
+      baas: [
+        "Supabase",
+        "Firebase"
+      ],
+      ai: [
+        "LangChain 🦜🔗",
+        "Google Gemini AI"
+      ],
+      messageQueue: [
+        "RabbitMQ"
+      ],
+      storage: [
+        "MinIO"
+      ],
+      mlops: [
+        "Model deployment (on-prem/cloud)",
+        "VectorDB (Qdrant, Pinecone, FAISS)"
+      ]
     },
     databases: [
       "MongoDB",
-      "PostgreSQL", 
-      "MySQL"
+      "PostgreSQL",
+      "MySQL",
+      "MariaDB",
+      "VectorDB (Qdrant, Pinecone, FAISS)"
     ],
     devOps: {
       containerization: [
-        "Docker 🐳", 
+        "Docker 🐳",
         "Podman 🦭"
+      ],
+      orchestration: [
+        "Docker Compose",
+        "Docker Swarm",
+        "Docker Stack",
+        "Kubernetes"
       ],
       cicd: [
         "GitHub Actions",
+        "GitLab CI",
         "GitHub CI/CD"
       ],
       cloud: [
         "GCP",
-        "AWS", 
-        "Azure", 
+        "AWS",
+        "Azure",
         "Vercel"
       ],
       vps: [
-        "Linux Server Management", 
+        "Linux Server Management",
         "VPS Management"
+      ],
+      reverseProxy: [
+        "Traefik",
+        "Nginx"
       ]
     },
     testing: {
-      unit: ["Jest", "Vitest"],
-      e2e: "Cypress",
+      unit: [
+        "Jest",
+        "Vitest"
+      ],
+      e2e: [
+        "Cypress"
+      ]
     },
     misc: {
       dataFetching: [
-        "React Query", 
+        "React Query",
         "SWR"
       ],
       stateManagement: [
@@ -98,19 +150,29 @@ const aboutMe = {
         "Redux Toolkit"
       ],
       versionControl: [
-        "Git", 
+        "Git",
         "GitHub"
       ],
       validation: [
         "zod"
+      ],
+      payments: [
+        "Stripe",
+        "PayPal",
+        "GoCardless"
       ]
     }
   },
   currentOccupation: [
     "3+ years experience 💼 | Worked at ConnectinCloud, Intrepid AI, Dobby Ads, AwesomeSuite",
     "Open for freelance opportunities 🚀",
-    "As a freelancer, worked with Indian Oil Corporation Limited, PCP India, Ellora Outdoor, Sonysauto"
+    "As a freelancer, worked with Indian Oil Corporation Limited (AI/ML Tender, Vision AI, MLOps), PCP India (DevOps, Mobile Engineering, Internal Business Tools), Sonysauto (Full Stack, DevOps, Cloud, International Car Inventory), Chetmani (Mobile Engineering, Internal Tools)"
   ],
+  highlights: [
+    "Won Indian Oil Corporation Limited AI/ML Vision AI tender project; delivered scalable MLOps pipelines, local/cloud model deployment, and automated validation for 5,000+ documents/month.",
+    "Specialized in DevOps automation, blue/green deployments, and hybrid cloud/on-prem infrastructure.",
+    "Contributor to Kube-Burner (CNCF)"
+  ]
 };
 ```
 
